@@ -9,3 +9,5 @@ Here we used a APi of judge0 and implemeted in project. ***(BETA) version still*
 
 - Support 4 langauges followed by C, C++, JAVA, Python, Ruby.
 - Lightweight with *Darkmode Enabled*
+- POP-Up CTA option enabled.
+- CSS button designs.
