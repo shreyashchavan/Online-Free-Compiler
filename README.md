@@ -7,5 +7,5 @@ Here we used a APi of judge0 and implemeted in project. ***(BETA) version still*
 >
 > and I haven't added any design yet. 
 
->- Support 4 langauges followed by C, C++, JAVA, Python, Ruby.
->- Lightweight with *Darkmode Enabled*
+- Support 4 langauges followed by C, C++, JAVA, Python, Ruby.
+- Lightweight with *Darkmode Enabled*
